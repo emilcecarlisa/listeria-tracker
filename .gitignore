@@ -22,5 +22,10 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Data files (optional - uncomment if you don't want to track large data files)
-# *.json
+.claude
+
+# Large data files (exceed GitHub 100MB limit)
+data/usda_fsis_data_product_establishment_specific_laboratory_sampling_*.json
+
+# Analysis scripts (temporary)
+analyze_gcp_data.py

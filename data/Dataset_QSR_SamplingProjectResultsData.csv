@@ -1,0 +1,90 @@
+﻿ ,,,,,"Current Period October 1, 2024 - September 30, 2025",,,,,,Historical Calculations,
+Species/Category,Product,Project,Pathogen,Type of Calculation,Number of Establishments Sampled,Number of Samples Analyzed,Number Positive,Calculation,Lower Confidence Bound,Upper Confidence Bound,FY24,CY24
+Raw Beef,RGB Components,MT64,STEC /6/,Percent Positive,165,1187,6,0.51%,0.23%,1.08%,0.57%,0.35%
+,RGB Components,MT64,Salmonella spp.,Percent Positive,165,1187,44,3.71%,2.00%,6.75%,4.38%,4.46%
+,Manufacturing Trim,MT60_C /5/,STEC /6/,Prevalence,757,3576,12,0.63%,0.14%,2.73%,0.56%,0.48%
+,Manufacturing Trim,MT60_C /5/,Salmonella spp.,Prevalence,757,3576,53,1.74%,1.13%,2.69%,2.29%,2.22%
+,Bench Trim,MT65_C /5/,STEC /6/,Percent Positive,668,1525,2,0.13%,0.03%,0.53%,0.14%,0.18%
+,Bench Trim,MT65_C /5/,Salmonella spp.,Percent Positive,668,1525,10,0.66%,0.35%,1.22%,0.21%,0.42%
+,Raw Ground,MT43,STEC /6/,Prevalence,1353,12106,35,0.17%,0.08%,0.34%,0.10%,0.15%
+,Raw Ground,MT43,Salmonella spp.,Prevalence,1353,12105,151,2.02%,1.25%,3.25%,2.07%,2.28%
+,Beef Trim Follow-up,MT53_C /5/,STEC /6/,Percent Positive /7/,35,406,6,1.48%,.,.,0.87%,1.28%
+,Beef Trim Follow-up,MT53_C /5/,Salmonella spp.,Percent Positive /7/,35,406,15,3.69%,.,.,4.52%,5.12%
+,Beef Trim/Components Follow-up,MT52_C /5/,STEC /6/,Percent Positive /7/,18,136,3,2.21%,.,.,5.26%,3.42%
+,Beef Trim/Components Follow-up,MT52_C /5/,Salmonella spp.,Percent Positive /7/,18,136,13,9.56%,.,.,3.16%,2.05%
+,Imported Raw Beef Products,MT51,STEC /6/,Percent Positive /7/,81,1752,5,0.29%,0.12%,0.68%,0.29%,0.27%
+,Imported Raw Beef Products,MT51,Salmonella spp.,Percent Positive /7/,81,1752,9,0.51%,0.25%,1.06%,0.44%,0.53%
+,Raw Ground Beef Follow-up,MT44T_C /5/,STEC /6/,Percent Positive /7/,5,20,0,<0.01%,.,.,0.00%,<0.01%
+,Raw Ground Beef Follow-up,MT44T_C /5/,Salmonella spp.,Percent Positive /7/,5,20,0,<0.01%,.,.,2.38%,<0.01%
+,Raw Ground Beef Follow-up,MT44,STEC /6/,Percent Positive /7/,12,133,0,<0.01%,.,.,1.18%,1.22%
+,Raw Ground Beef Follow-up,MT44,Salmonella spp.,Percent Positive /7/,12,133,1,0.75%,.,.,1.18%,1.22%
+,Imported Raw Beef Products,MT08,STEC /6/,Percent Positive /7/,6,32,1,3.12%,0.10%,50.16%,<0.01%,<0.01%
+,Imported Raw Beef Products,MT08,Salmonella spp.,Percent Positive /7/,6,32,2,6.25%,0.19%,69.99%,<0.01%,3.70%
+,Raw Ground Beef or Veal Sampling - Retail,MT05,STEC /6/,Percent Positive /7/,,373,2,0.54%,.,.,<0.01%,<0.01%
+,Raw Ground Beef or Veal Sampling - Retail,MT05,Salmonella spp.,Percent Positive /7/,,373,4,1.07%,.,.,1.23%,1.26%
+Raw Pork,Cuts,HC_PK_CUT01,Salmonella spp.,Prevalence,89,522,45,10.33%,4.12%,23.63%,7.81%,9.87%
+,Comminuted,HC_PK_COM01,Salmonella spp.,Prevalence,268,1836,322,20.94%,13.91%,30.28%,25.67%,23.40%
+,Imported Raw Pork Products,IMP_PORK,Salmonella spp.,Percent Positive /7/,56,530,14,2.64%,1.52%,4.55%,3.28%,3.15%
+Raw Chicken,Whole Carcasses /2/,HC_CH_CARC01,Salmonella spp.,Prevalence,209,8886,486,3.56%,3.10%,4.08%,3.40%,3.40%
+,Whole Carcasses /2/,HC_CH_CARC01,Campylobacter spp. /3/,Prevalence,205,4473,1265,25.68%,23.06%,28.49%,23.36%,24.42%
+,"Parts - Legs, Breasts, Wings /2/",HC_CPT_LBW01,Salmonella spp.,Prevalence,638,14673,1273,7.04%,6.26%,7.90%,7.12%,6.88%
+,"Parts - Legs, Breasts, Wings /2/",HC_CPT_LBW01,Campylobacter spp. /3/,Prevalence,572,7309,1603,20.41%,17.77%,23.33%,20.63%,20.17%
+,Comminuted,HC_CH_COM01,Salmonella spp.,Prevalence,153,1252,426,37.84%,27.12%,49.89%,30.84%,27.70%
+,Comminuted,HC_CH_COM01,Campylobacter spp. /3/,Prevalence,152,1247,139,8.42%,3.09%,20.97%,5.07%,6.56%
+,"Parts - Legs, Breasts, Wings Follow-up",F_CPT_LBW01,Salmonella spp.,Percent Positive /7/,75,1094,184,16.82%,.,.,13.98%,14.22%
+,"Parts - Legs, Breasts, Wings Follow-up",F_CPT_LBW01,Campylobacter spp. /3/,Percent Positive /7/,.,.,.,.,.,.,.,.
+,Comminuted Follow-up,F_CH_COM01,Salmonella spp.,Percent Positive /7/,23,310,126,40.65%,.,.,28.05%,31.43%
+,Comminuted Follow-up,F_CH_COM01,Campylobacter spp. /3/,Percent Positive /7/,.,.,.,.,.,.,<0.01%,<0.01%
+,Whole Carcasses Follow-up,F_CH_CARC01,Salmonella spp.,Percent Positive /7/,26,364,48,13.19%,.,.,10.63%,9.59%
+,Whole Carcasses Follow-up,F_CH_CARC01,Campylobacter spp. /3/,Percent Positive /7/,.,.,.,.,.,.,.,.
+Raw Turkey,Whole Carcasses /2/,HC_TU_CARC01,Salmonella spp.,Prevalence,40,729,3,0.42%,0.12%,1.41%,0.27%,0.28%
+,Whole Carcasses /2/,HC_TU_CARC01,Campylobacter spp. /3/,Prevalence,40,729,13,0.56%,0.15%,2.01%,0.26%,0.19%
+,Comminuted,HC_TU_COM01,Salmonella spp.,Prevalence,70,1121,226,22.22%,12.87%,35.58%,21.51%,22.00%
+,Comminuted,HC_TU_COM01,Campylobacter spp. /3/,Prevalence,70,1118,24,2.06%,0.95%,4.41%,1.11%,1.58%
+,Comminuted Follow-up,F_TU_COM01,Salmonella spp.,Percent Positive /7/,11,126,27,21.43%,.,.,14.29%,13.50%
+,Comminuted Follow-up,F_TU_COM01,Campylobacter spp. /3/,Percent Positive /7/,.,.,.,.,.,.,.,.
+,Whole Carcasses Follow-up,F_TU_CARC01,Salmonella spp.,Percent Positive /7/,.,.,.,.,.,.,7.14%,6.25%
+,Whole Carcasses Follow-up,F_TU_CARC01,Campylobacter spp. /3/,Percent Positive /7/,.,.,.,.,.,.,<0.01%,.
+Imported Poultry,Imported Poultry Products,IMP_POULTRY,Salmonella spp.,Percent Positive /7/,27,774,106,13.70%,11.08%,16.81%,21.01%,18.21%
+,Imported Poultry Products,IMP_POULTRY,Campylobacter spp. /3/,Percent Positive /7/,27,771,147,19.07%,9.52%,34.54%,15.95%,14.91%
+Processed Eggs,Processed Dried Egg Products,EGG_DY_MIC01 /4/,Salmonella spp.,VW Percent Positive /1/,16,206,0,<0.01%,.,.,<0.01%,<0.01%
+,Processed Dried Egg Products,EGG_DY_MIC01 /4/,L. monocytogenes ,VW Percent Positive /1/,16,206,0,<0.01%,.,.,<0.01%,<0.01%
+,Processed Liquid Egg Products,EGG_LQ_MIC01 /4/,Salmonella spp.,VW Percent Positive /1/,44,779,0,<0.01%,.,.,<0.01%,<0.01%
+,Processed Liquid Egg Products,EGG_LQ_MIC01 /4/,L. monocytogenes ,VW Percent Positive /1/,44,779,0,<0.01%,.,.,0.14%,0.15%
+,Imported Processed Eggs,EGGIMP,Salmonella spp.,Percent Positive /7/,4,129,0,<0.01%,.,.,<0.01%,<0.01%
+,Imported Processed Eggs,EGGIMP,L. monocytogenes ,Percent Positive /7/,4,129,0,<0.01%,.,.,<0.01%,<0.01%
+Ready-to-Eat,RTE Meat / Poultry,RTEPROD_RAND /8/,Salmonella spp.,VW Percent Positive /1/,1172,1220,1,0.03%,0.00%,0.19%,<0.01%,0.01%
+,RTE Meat / Poultry,RTEPROD_RAND /8/,L. monocytogenes ,VW Percent Positive /1/,1172,1220,5,0.04%,0.01%,0.14%,0.02%,0.03%
+,RTE Meat / Poultry,RTEPROD_RISK /8/,Salmonella spp.,VW Percent Positive /1/,1346,2699,1,0.24%,0.03%,1.72%,0.02%,0.03%
+,RTE Meat / Poultry,RTEPROD_RISK /8/,L. monocytogenes ,VW Percent Positive /1/,1346,2699,4,0.01%,0.00%,0.03%,0.26%,0.18%
+,RTE Meat / Poultry,RTEPROD /8/,Salmonella spp.,VW Percent Positive /1/,2249,7987,4,0.01%,0.00%,0.04%,.,.
+,RTE Meat / Poultry,RTEPROD /8/,L. monocytogenes ,VW Percent Positive /1/,2249,7987,15,0.08%,0.02%,0.28%,.,.
+,Imported RTE,IMVRTE,Salmonella spp.,Percent Positive /7/,78,3239,0,<0.01%,.,.,<0.01%,<0.01%
+,Imported RTE,IMVRTE,L. monocytogenes ,Percent Positive /7/,78,3241,1,0.03%,0.00%,0.26%,0.26%,0.22%
+NARMS,Beef Cow,NARMS_BC,Salmonella spp.,Percent Positive /7/,138,598,52,8.70%,6.76%,11.13%,10.74%,9.42%
+,Beef Cow,NARMS_BC,Campylobacter spp.,Percent Positive /7/,96,254,45,17.72%,13.28%,23.25%,21.18%,15.58%
+,Dairy Cow,NARMS_DC,Salmonella spp.,Percent Positive /7/,118,736,203,27.58%,23.88%,31.62%,29.61%,26.99%
+,Dairy Cow,NARMS_DC,Campylobacter spp.,Percent Positive /7/,109,600,212,35.33%,31.85%,38.98%,39.75%,36.83%
+,Heifer,NARMS_HF,Salmonella spp.,Percent Positive /7/,165,525,60,11.43%,8.43%,15.31%,12.07%,13.17%
+,Heifer,NARMS_HF,Campylobacter spp.,Percent Positive /7/,110,228,104,45.61%,38.97%,52.42%,48.91%,48.06%
+,Market Swine,NARMS_MS,Salmonella spp.,Percent Positive /7/,105,483,215,44.51%,37.73%,51.50%,47.24%,46.06%
+,Market Swine,NARMS_MS,Campylobacter spp.,Percent Positive /7/,105,483,66,13.66%,10.79%,17.16%,22.22%,20.33%
+,Steer,NARMS_ST,Salmonella spp.,Percent Positive /7/,192,1341,145,10.81%,8.35%,13.89%,8.44%,10.23%
+,Steer,NARMS_ST,Campylobacter spp.,Percent Positive /7/,96,221,105,47.51%,40.17%,54.96%,48.91%,56.20%
+,Sows,NARMS_SW,Salmonella spp.,Percent Positive /7/,59,287,182,63.41%,54.38%,71.59%,63.85%,66.67%
+,Sows,NARMS_SW,Campylobacter spp.,Percent Positive /7/,59,287,54,18.82%,14.65%,23.84%,23.99%,23.13%
+,Young Chicken,NARMS_YC,Salmonella spp.,Percent Positive /7/,155,822,341,41.48%,37.08%,46.02%,56.32%,45.33%
+,Young Chicken,NARMS_YC,Campylobacter spp.,Percent Positive /7/,129,379,235,62.01%,56.34%,67.36%,67.70%,61.56%
+,Young Turkey,NARMS_YT,Salmonella spp.,Percent Positive /7/,46,555,74,13.33%,9.30%,18.76%,13.29%,14.07%
+,Young Turkey,NARMS_YT,Campylobacter spp.,Percent Positive /7/,45,412,161,39.08%,30.59%,48.29%,47.27%,45.34%
+"/1/ These calculations are made using the same calculation as prevalence. FSIS is not labeling these calculations prevalence because the data may not meet the statistical criteria for prevalence. If FSIS determines that the data do meet the statistical criteria, the label will be updated.
+/2/ This sampling project uses a product rinse.
+/3/ Campylobacter results are of samples analyzed using the enrichment method. FSIS began analyzing raw poultry samples using the enrichment method on August 27, 2018, listed the rates as percent positive through December 2019, and returned to listing as prevalence in April 2020.
+/4/ Processed egg sampling changed in June 2020, with projects EGG_DY_MIC01 (Dried Egg Products) and EGG_LQ_MIC01 (Liquid/Frozen Egg Products) replacing the seven EM projects.
+/5/ FSIS switched to the Cloth Sampling Method for the indicated project code in February 2023. For more information, please see FSIS Directive 10010.1
+/6/ As announced in the November 18, 2022 Constituent Update, FSIS expanded routine testing of non-O157 Shiga toxin-producing E. coli testing to all beef products for samples received on or after February 1, 2023. Previously results for E. coli O157 and Non-O157 STEC were reported separately, however beginning in February 2023 FSIS combined separate adulterant E. coli results into a unified STEC result (Shiga Toxin-Producing E. coli).
+/7/ As announced in the October 25, 2024 Constituent Update, FSIS updated this posting to include import, retail, NARMS, and follow-up projects that were previously included in the Percent Positive Sampling Reports.
+/8/ On January 17, 2025, FSIS Directive 10,240.3 was issued, combining the RTEPROD_RISK and RTEPROD_RAND sampling programs into one RTEPROD sampling program for Ready-to-Eat product.  Both post-lethality exposed products and not post-lethality exposed products are eligible for sampling under the RTEPROD sampling program. Historical FY and/or CY data will not become available for the RTEPROD project until future reports.
+Follow-up sampling is specific to an individual establishment and the samples are only intended to gauge whether the establishment’s corrective actions worked. Therefore, confidence interval values are not provided for follow-up projects.
+Empty fields with a '.' are not applicable.
+When the value in the calculation field is <0.01%, there are no associated confidence interval values.",,,,,,,,,,,,
