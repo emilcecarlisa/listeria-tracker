@@ -26,6 +26,7 @@ Thumbs.db
 
 # Large data files (exceed GitHub 100MB limit)
 data/usda_fsis_data_product_establishment_specific_laboratory_sampling_*.json
+data/labSamplingRawPoultryFy2025.json
 
 # Analysis scripts (temporary)
 analyze_gcp_data.py
