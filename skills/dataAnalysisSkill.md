@@ -631,6 +631,7 @@ with open('file.json', 'rb') as f:
 2. **Complex data wrangling**: Nested JSON, header issues
 3. **Iterative searches**: Finding specific records/patterns
 4. **Reproducible analysis**: Need to re-run same analysis
+5. **New dataset**: It's better to create a new file for altered data than modifying the original dataset
 
 ### Script Best Practices:
 
