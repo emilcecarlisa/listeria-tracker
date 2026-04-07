@@ -1,0 +1,55 @@
+{
+  "totalSamples": 18191,
+  "totalPositive": 1399,
+  "overallRate": 7.690616238799406,
+  "totalEstablishments": 242,
+  "withMOIs": 62,
+  "withNRs": 5,
+  "moiPercent": 25.6198347107438,
+  "totalRecalls": 20,
+  "listeriaRecalls": 17,
+  "salmonellaRecalls": 3,
+  "outbreakRecalls": 4,
+  "totalPoundsRecalled": 7279767.0,
+  "largestRecall": {
+    "establishment": "BrucePac",
+    "pounds": 3743262.0,
+    "pathogen": "Listeria"
+  },
+  "top5Recalls": [
+    {
+      "establishment": "BrucePac",
+      "poundsRecovered": 3743262.0,
+      "pathogen": "Listeria",
+      "relatedToOutbreak": false
+    },
+    {
+      "establishment": "Boar&#039;s Head Provisions Co., Inc.",
+      "poundsRecovered": 2698101.0,
+      "pathogen": "Listeria",
+      "relatedToOutbreak": false
+    },
+    {
+      "establishment": "Fratelli Beretta USA, INC.",
+      "poundsRecovered": 632573.0,
+      "pathogen": "Salmonella",
+      "relatedToOutbreak": true
+    },
+    {
+      "establishment": "M.C.I. Foods, Inc.",
+      "poundsRecovered": 71943.0,
+      "pathogen": "Listeria",
+      "relatedToOutbreak": false
+    },
+    {
+      "establishment": "FreshRealm",
+      "poundsRecovered": 65233.0,
+      "pathogen": "Listeria",
+      "relatedToOutbreak": false
+    }
+  ],
+  "recallsFY2025": 9,
+  "recallsOutsideFY2025": 11,
+  "alignmentPercent": 45.0,
+  "fy2025Period": "Oct 1, 2024 - Sep 30, 2025"
+}

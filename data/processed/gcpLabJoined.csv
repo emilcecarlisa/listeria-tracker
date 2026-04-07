@@ -1,0 +1,243 @@
+EstablishmentNumber,EstablishmentName,EstablishmentID,GCP_TotalInspections,GCP_TotalNRs,GCP_TotalMOIs,Lab_TotalSamples,Lab_SalmonellaPositive,Lab_CampylobacterPositive,Lab_SalmonellaPositiveRate,Lab_CampylobacterPositiveRate,_merge
+M10038+P10038+V10038,Scotts Hook & Cleaver Inc.                                                                          ,7125.0,33.0,0.0,0.0,3.0,1.0,0.0,33.33,0.0,both
+M1015+P1015+V1015,"Empire Kosher Poultry, Inc.                                                                         ",6413.0,355.0,0.0,0.0,134.0,20.0,0.0,14.93,0.0,both
+M112+P112,"Tyson Foods, Inc                                                                                    ",3847.0,420.0,0.0,0.0,108.0,4.0,0.0,3.7,0.0,both
+M1234+P1234,Mountaire Farms Inc.                                                                                ,6163896.0,508.0,0.0,2.0,99.0,1.0,0.0,1.01,0.0,both
+M13149+P13149+V13149,Krehbiels Specialty Meats Inc                                                                       ,3743.0,15.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,both
+M13289+P963,Cargill Meat Solutions                                                                              ,3842.0,346.0,0.0,0.0,53.0,8.0,0.0,15.09,0.0,both
+M13456+P13456+V13456,"Tyson Foods, Inc.                                                                                   ",3901.0,539.0,0.0,0.0,80.0,7.0,0.0,8.75,0.0,both
+M13556+P13556,"Tyson Foods, Inc.                                                                                   ",3770.0,481.0,0.0,4.0,109.0,1.0,0.0,0.92,0.0,both
+M1655+P1655+V1655,"Rashbe Holdings, Inc.                                                                               ",6167084.0,238.0,0.0,0.0,67.0,5.0,0.0,7.46,0.0,both
+M17250+P6+V6,"Tyson Foods, Inc.                                                                                   ",4485.0,421.0,0.0,0.0,76.0,1.0,0.0,1.32,0.0,both
+M17980+P17980,Pilgrim's Pride Corporation                                                                         ,727.0,516.0,0.0,1.0,107.0,3.0,0.0,2.8,0.0,both
+M18866+P551,"Jennie-O Turkey Store Sales, LLC                                                                    ",2967.0,488.0,0.0,1.0,70.0,12.0,0.0,17.14,0.0,both
+M1909+P1909,Legacy Agricultural Farms LLC                                                                       ,6167326.0,59.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,both
+M19232+P19232+V19232,"Bowman & Landes Turkeys, Inc.                                                                       ",2166.0,19.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,both
+M19636+P19636,Tyson Foods Inc                                                                                     ,4534.0,469.0,0.0,0.0,111.0,8.0,0.0,7.21,0.0,both
+M20322+P20322,"Keystone Foods, LLC.                                                                                ",4783.0,449.0,0.0,2.0,109.0,6.0,0.0,5.5,0.0,both
+M20446+P20446+V20446,Central Illinois Poultry Processing LLC                                                             ,8719.0,225.0,0.0,0.0,38.0,1.0,0.0,2.63,0.0,both
+M20826+P20826+V20826,Griggstown Quail Farm                                                                               ,7606.0,236.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,both
+M20935+P20935,"Michigan Turkey Producers Co-op, Inc.                                                               ",7591.0,207.0,0.0,5.0,54.0,8.0,0.0,14.81,0.0,both
+M2130+P2130,Cooper Farms Processing                                                                             ,1943.0,469.0,0.0,1.0,79.0,1.0,0.0,1.27,0.0,both
+M21938+P21938,EcoFriendly Foods                                                                                   ,9260.0,33.0,0.0,0.0,1.0,1.0,0.0,100.0,0.0,both
+M2194+P2194,Pat's Pastured                                                                                      ,6167597.0,20.0,0.0,0.0,2.0,1.0,0.0,50.0,0.0,both
+M22095+P22095+V22095,Creston Valley Meats                                                                                ,8875.0,73.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,both
+M248B+P215,Butterfield Foods Company                                                                           ,2939.0,167.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,both
+M27297+P27297,Campo Lindo Farms                                                                                   ,8862.0,61.0,0.0,0.0,17.0,1.0,0.0,5.88,0.0,both
+M27389+P27389+V27389,Pitman Farms                                                                                        ,9259.0,669.0,0.0,0.0,170.0,37.0,0.0,21.76,0.0,both
+M31727+P31727+V31727A,Kiryas Joel Poultry Processing Plant                                                                ,9337.0,253.0,0.0,0.0,71.0,1.0,0.0,1.41,0.0,both
+M32130+P32130+V32130,Dakota Provisions LLC                                                                               ,9870.0,403.0,0.0,13.0,21.0,1.0,0.0,4.76,0.0,both
+M322A+P322,Pilgrim's Pride Corporation                                                                         ,2961.0,556.0,0.0,0.0,111.0,6.0,0.0,5.41,0.0,both
+M34078+P34078,"Great Lakes Poultry, Inc.                                                                           ",12319.0,247.0,0.0,0.0,9.0,5.0,0.0,55.56,0.0,both
+M34145+P34145,"Kadejan, Inc.                                                                                       ",12513.0,160.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,both
+M4005+P4005+V4005,Williamsburg Packing Company Inc.                                                                   ,619.0,122.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,both
+M4181+P4181,"Mao Foods, Inc.                                                                                     ",5687.0,209.0,0.0,3.0,45.0,0.0,0.0,0.0,0.0,both
+M44121+P44121,Pelleh Poultry Corp.                                                                                ,123475.0,234.0,0.0,0.0,49.0,11.0,0.0,22.45,0.0,both
+M45190+P45190,Garden Path Farms                                                                                   ,124546.0,51.0,0.0,0.0,2.0,1.0,0.0,50.0,0.0,both
+M45479+P45479,"Rettland Farm, LLC                                                                                  ",127028.0,127.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,both
+M45525+P45525+V45525,Pine Creek Processing LLC                                                                           ,127117.0,132.0,1.0,0.0,23.0,13.0,0.0,56.52,0.0,both
+M46324A+P46324A+V46324A,Morning Star Poultry                                                                                ,6165029.0,233.0,0.0,0.0,63.0,3.0,0.0,4.76,0.0,both
+M46498+P46498,"Westminster Meat Packing, Inc.                                                                      ",6164241.0,154.0,0.0,0.0,47.0,14.0,0.0,29.79,0.0,both
+M4653A+P4653A+V4653A,"Agri Star Meat and Poultry, LLC                                                                     ",3356.0,246.0,0.0,0.0,54.0,0.0,0.0,0.0,0.0,both
+M46910+P46910+V46910,B & R Meat Processing                                                                               ,126548.0,29.0,0.0,0.0,12.0,2.0,0.0,16.67,0.0,both
+M46942+P46942,Maple Wind Farm                                                                                     ,126606.0,45.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,both
+M47579+P47579,Tyson Foods Inc.                                                                                    ,6165818.0,544.0,0.0,1.0,106.0,8.0,0.0,7.55,0.0,both
+M48281+P48281+V48281,"White Lake Foods, LLC                                                                               ",6163490.0,283.0,0.0,0.0,47.0,7.0,0.0,14.89,0.0,both
+M51255+P51255,Natural State Processing                                                                            ,6162809.0,155.0,0.0,0.0,47.0,5.0,0.0,10.64,0.0,both
+M51302+P51302,Belmont Meats LLC                                                                                   ,6163296.0,32.0,0.0,0.0,14.0,2.0,0.0,14.29,0.0,both
+M51351+P51351,Underground Slaughter LLC                                                                           ,6163957.0,51.0,0.0,1.0,8.0,2.0,0.0,25.0,0.0,both
+M544+P544,Jennie-O Turkey Store                                                                               ,6164451.0,659.0,0.0,0.0,22.0,0.0,0.0,0.0,0.0,both
+M5533+P5533+V5533,"West Liberty Foods, LLC                                                                             ",3362.0,235.0,0.0,0.0,23.0,0.0,0.0,0.0,0.0,both
+M56+P56,Pilgrim's Pride Corporation                                                                         ,2216.0,528.0,0.0,0.0,98.0,3.0,0.0,3.06,0.0,both
+M579+P579+V579,Jennie-O Turkey Store                                                                               ,2969.0,485.0,0.0,0.0,82.0,7.0,0.0,8.54,0.0,both
+M5842+P5842+V5842,"Tyson Foods, Inc.                                                                                   ",3873.0,524.0,0.0,0.0,121.0,6.0,0.0,4.96,0.0,both
+M6137+P6137,"Foster Poultry Farms, LLC                                                                           ",5308.0,1059.0,1.0,1.0,115.0,16.0,0.0,13.91,0.0,both
+M667+P667,Mountaire Farms Inc.                                                                                ,2249.0,511.0,0.0,0.0,111.0,2.0,0.0,1.8,0.0,both
+M7100+P7100+V7100,"Tyson Foods, Inc.                                                                                   ",3880.0,500.0,0.0,1.0,108.0,0.0,0.0,0.0,0.0,both
+M7345+P7345,"Butterball, LLC                                                                                     ",651.0,744.0,0.0,0.0,61.0,15.0,0.0,24.59,0.0,both
+M737+P737,House of Raeford - Wallace Div                                                                      ,581.0,490.0,0.0,0.0,125.0,5.0,0.0,4.0,0.0,both
+M7428+P7428+V7428,"Joyce Foods, Inc.                                                                                   ",656.0,107.0,0.0,0.0,62.0,10.0,0.0,16.13,0.0,both
+M744+P744,Vineland Poultry LLC                                                                                ,846.0,153.0,0.0,0.0,33.0,6.0,0.0,18.18,0.0,both
+M7470+P7470,Mountaire Farms Inc. - NC Division                                                                  ,664.0,535.0,0.0,2.0,106.0,0.0,0.0,0.0,0.0,both
+M7478+P1,"Tyson Foods, Inc.                                                                                   ",567.0,517.0,0.0,1.0,110.0,3.0,0.0,2.73,0.0,both
+M751+P1049,Pitman Farms Inc. (Moroni Turkey Processing)                                                        ,4807.0,245.0,0.0,1.0,77.0,19.0,0.0,24.68,0.0,both
+M7559+P134+V7559,David Elliot Poultry Farm Inc.                                                                      ,6530.0,257.0,0.0,0.0,48.0,22.0,0.0,45.83,0.0,both
+M757+P757+V757,The Hillshire Brands Company                                                                        ,3276.0,547.0,0.0,0.0,22.0,0.0,0.0,0.0,0.0,both
+M810+P810,Pilgrim's Pride Corporation                                                                         ,1906.0,516.0,0.0,0.0,112.0,6.0,0.0,5.36,0.0,both
+M829+P829,"Juniper Creek Farms, LLC                                                                            ",6166925.0,41.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,both
+M9977+P1325,"Tyson Foods, Inc.                                                                                   ",6847.0,415.0,0.0,0.0,55.0,4.0,0.0,7.27,0.0,both
+P1009,Wayne Farms LLC                                                                                     ,3858.0,505.0,0.0,0.0,106.0,10.0,0.0,9.43,0.0,both
+P1096A,"VPGC,LLC                                                                                            ",9551.0,248.0,0.0,0.0,65.0,4.0,0.0,6.15,0.0,both
+P1137,"Tyson Foods, Inc.                                                                                   ",4159.0,559.0,0.0,0.0,106.0,2.0,0.0,1.89,0.0,both
+P1201,Pilgrim's Pride Corporation                                                                         ,586.0,543.0,0.0,0.0,104.0,8.0,0.0,7.69,0.0,both
+P1209,Whitewater Processing LLC                                                                           ,1914.0,288.0,0.0,0.0,22.0,0.0,0.0,0.0,0.0,both
+P1235,Wayne Farms LLC                                                                                     ,4509.0,493.0,0.0,0.0,111.0,3.0,0.0,2.7,0.0,both
+P1243,"Perdue Foods, LLC.                                                                                  ",589.0,561.0,0.0,4.0,173.0,43.0,0.0,24.86,0.0,both
+P1249,"George's Chicken, LLC                                                                               ",2264.0,521.0,0.0,0.0,124.0,8.0,0.0,6.45,0.0,both
+P1250,Fieldale Farms Corporation                                                                          ,41.0,525.0,0.0,0.0,188.0,25.0,0.0,13.3,0.0,both
+P1254+V1254,"Koch Foods of Ashland, LLC                                                                          ",4510.0,527.0,0.0,0.0,59.0,0.0,0.0,0.0,0.0,both
+P1257,Fieldale Farms Corporation                                                                          ,44.0,514.0,0.0,0.0,78.0,3.0,0.0,3.85,0.0,both
+P1272,Pilgrim's Pride Corporation                                                                         ,45.0,464.0,0.0,0.0,106.0,2.0,0.0,1.89,0.0,both
+P1284,Pilgrim's Pride Corporation                                                                         ,48.0,516.0,0.0,0.0,101.0,5.0,0.0,4.95,0.0,both
+P1294+V1294,Holmes Foods Inc.                                                                                   ,4161.0,252.0,0.0,0.0,78.0,2.0,0.0,2.56,0.0,both
+P1307,Mar-Jac Poultry-AL                                                                                  ,4567.0,529.0,0.0,0.0,142.0,11.0,0.0,7.75,0.0,both
+P1309,House of Raeford Farms Inc.                                                                         ,592.0,508.0,0.0,1.0,112.0,4.0,0.0,3.57,0.0,both
+P1315,"Tyson Foods, Inc.                                                                                   ",3570.0,419.0,0.0,0.0,107.0,6.0,0.0,5.61,0.0,both
+P1317+V1317,Wayne Farms LLC                                                                                     ,4495.0,491.0,0.0,0.0,104.0,2.0,0.0,1.92,0.0,both
+P1318,"Perdue Foods, LLC                                                                                   ",2267.0,736.0,0.0,0.0,110.0,5.0,0.0,4.55,0.0,both
+P13369+V13369,"George's Processing, Inc.                                                                           ",3752.0,462.0,0.0,0.0,78.0,2.0,0.0,2.56,0.0,both
+P1353,Pilgrim's Pride Corporation                                                                         ,4568.0,517.0,0.0,1.0,76.0,1.0,0.0,1.32,0.0,both
+P1480,"Tip Top Poultry, Inc.                                                                               ",53.0,492.0,0.0,0.0,30.0,3.0,0.0,10.0,0.0,both
+P15724+V15724,Case Farms Processing                                                                               ,2091.0,543.0,0.0,7.0,99.0,7.0,0.0,7.07,0.0,both
+P1605,"Tide Mill Organic Farm, LLC                                                                         ",6167063.0,76.0,0.0,0.0,19.0,1.0,0.0,5.26,0.0,both
+P165H,Bachoco OK Foods                                                                                    ,3833.0,503.0,0.0,3.0,103.0,5.0,0.0,4.85,0.0,both
+P165S+V165S,Bachoco OK Foods                                                                                    ,3850.0,514.0,0.0,2.0,110.0,8.0,0.0,7.27,0.0,both
+P170,Wayne Farms LLC                                                                                     ,8.0,505.0,0.0,0.0,110.0,8.0,0.0,7.27,0.0,both
+P17340,Pilgrim's Pride Corporation                                                                         ,2111.0,523.0,0.0,0.0,107.0,6.0,0.0,5.61,0.0,both
+P17500,Pilgrim's Pride Corporation                                                                         ,4526.0,503.0,0.0,0.0,107.0,3.0,0.0,2.8,0.0,both
+P177,Pilgrim's Pride Corporation                                                                         ,9.0,545.0,0.0,0.0,114.0,6.0,0.0,5.26,0.0,both
+P17734,Stonewood Farm Inc.                                                                                 ,1819.0,30.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,both
+P1788+V1788,Steadfast Farms Poultry Processing & Slaughter LLC                                                  ,6167199.0,40.0,0.0,0.0,1.0,1.0,0.0,100.0,0.0,both
+P17966+V17966,"HVFG, LLC                                                                                           ",1384.0,261.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,both
+P18285,Perdue Foods LLC                                                                                    ,734.0,390.0,0.0,0.0,124.0,11.0,0.0,8.87,0.0,both
+P18414,MB Consultants LTD                                                                                  ,1406.0,247.0,0.0,0.0,45.0,1.0,0.0,2.22,0.0,both
+P18438B,"Dupont Market, Inc. dba Grimaud Farms                                                               ",6164113.0,250.0,0.0,0.0,56.0,13.0,0.0,23.21,0.0,both
+P18557,"Sanderson Farms, Inc.                                                                               ",4530.0,508.0,0.0,0.0,100.0,4.0,0.0,4.0,0.0,both
+P18978,Misty Knoll Farms                                                                                   ,1840.0,126.0,0.0,0.0,70.0,5.0,0.0,7.14,0.0,both
+P19112,Perdue Foods LLC                                                                                    ,2160.0,515.0,0.0,0.0,110.0,4.0,0.0,3.64,0.0,both
+P19128,Case Farms Processing                                                                               ,750.0,542.0,0.0,0.0,109.0,9.0,0.0,8.26,0.0,both
+P19150+V19150,La Belle Farm Inc                                                                                   ,7889.0,219.0,0.0,0.0,37.0,26.0,0.0,70.27,0.0,both
+P192,Pilgrim's Pride Corporation                                                                         ,4501.0,520.0,0.0,0.0,106.0,2.0,0.0,1.89,0.0,both
+P1949,"Simmons Prepared Foods, Inc.                                                                        ",6164265.0,502.0,0.0,0.0,97.0,3.0,0.0,3.09,0.0,both
+P19514,"Tyson Foods, Inc.                                                                                   ",2173.0,544.0,0.0,6.0,112.0,6.0,0.0,5.36,0.0,both
+P19688+V19688,"Sanderson Farms, Inc.                                                                               ",4420.0,589.0,0.0,0.0,112.0,5.0,0.0,4.46,0.0,both
+P1978,Pasture Raised Foods LLC                                                                            ,6167518.0,146.0,0.0,0.0,76.0,14.0,0.0,18.42,0.0,both
+P19865+V19865,House of Raeford Farms of LA                                                                        ,4093.0,529.0,0.0,0.0,118.0,11.0,0.0,9.32,0.0,both
+P20245,"Keystone Foods, LLC                                                                                 ",2197.0,506.0,0.0,0.0,126.0,6.0,0.0,4.76,0.0,both
+P206+V206,Pilgrim's Pride Corporation                                                                         ,4141.0,476.0,0.0,0.0,91.0,3.0,0.0,3.3,0.0,both
+P208+V208,"George's Processing, Inc.                                                                           ",3851.0,516.0,0.0,0.0,106.0,8.0,0.0,7.55,0.0,both
+P211,"Palmetto Pigeon Plant, Inc.                                                                         ",7996.0,159.0,0.0,0.0,23.0,12.0,0.0,52.17,0.0,both
+P21234,Perdue Foods LLC                                                                                    ,7855.0,504.0,0.0,0.0,86.0,8.0,0.0,9.3,0.0,both
+P2171,DiPaola Turkeys Inc.                                                                                ,891.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,both
+P2178,PERDUE FOODS LLC                                                                                    ,2278.0,736.0,0.0,0.0,170.0,37.0,0.0,21.76,0.0,both
+P218,Pilgrim's Pride Corporation                                                                         ,4142.0,501.0,0.0,1.0,93.0,5.0,0.0,5.38,0.0,both
+P2186,"GEORGE'S FOODS, LLC                                                                                 ",2279.0,523.0,0.0,1.0,118.0,8.0,0.0,6.78,0.0,both
+P22000,"Prestage Foods, Inc.                                                                                ",8371.0,247.0,0.0,1.0,84.0,9.0,0.0,10.71,0.0,both
+P2372,DRR Processing LLC                                                                                  ,6167729.0,229.0,0.0,0.0,12.0,5.0,0.0,41.67,0.0,both
+P243,"Tyson Foods, Inc.                                                                                   ",15.0,336.0,0.0,0.0,89.0,0.0,0.0,0.0,0.0,both
+P244+V244A,Plainville Farms                                                                                    ,6488.0,220.0,0.0,0.0,81.0,9.0,0.0,11.11,0.0,both
+P247,"Sanderson Farms, Inc. (Processing Div)                                                              ",4554.0,497.0,0.0,0.0,92.0,1.0,0.0,1.09,0.0,both
+P2632,Pilgrim's Pride Corporation                                                                         ,60.0,641.0,0.0,0.0,108.0,4.0,0.0,3.7,0.0,both
+P2686,"Keystone Foods, LLC                                                                                 ",63.0,442.0,0.0,0.0,100.0,4.0,0.0,4.0,0.0,both
+P27+V27,"Tyson Foods, Inc.                                                                                   ",3937.0,492.0,0.0,0.0,22.0,2.0,0.0,9.09,0.0,both
+P286,Perdue Foods LLC                                                                                    ,2501.0,464.0,0.0,1.0,71.0,23.0,0.0,32.39,0.0,both
+P2882,Perdue Foods LLC                                                                                    ,5204.0,272.0,0.0,0.0,64.0,6.0,0.0,9.38,0.0,both
+P2894,House of Raeford Vienna                                                                             ,6168273.0,404.0,0.0,0.0,88.0,3.0,0.0,3.41,0.0,both
+P308,Koch Foods of Mississippi                                                                           ,4487.0,511.0,0.0,2.0,93.0,8.0,0.0,8.6,0.0,both
+P32,"Mar-Jac Poultry, Inc.                                                                               ",2.0,689.0,0.0,1.0,103.0,2.0,0.0,1.94,0.0,both
+P320,"Sanderson Farms, Inc.                                                                               ",4540.0,509.0,0.0,0.0,108.0,2.0,0.0,1.85,0.0,both
+P32143,Otto's Poultry Inc.                                                                                 ,9820.0,122.0,0.0,0.0,67.0,23.0,0.0,34.33,0.0,both
+P32182,"Sanderson Farms, Inc.                                                                               ",9808.0,510.0,0.0,0.0,108.0,3.0,0.0,2.78,0.0,both
+P325,"Tyson Foods, Inc.                                                                                   ",4128.0,386.0,0.0,0.0,101.0,1.0,0.0,0.99,0.0,both
+P341,Golden Rod Broilers                                                                                 ,4541.0,253.0,0.0,0.0,58.0,7.0,0.0,12.07,0.0,both
+P34308,"Sanderson Farms, Inc.                                                                               ",12461.0,508.0,0.0,0.0,97.0,2.0,0.0,2.06,0.0,both
+P38466,Sensenig Turkey Farm LLC                                                                            ,13387.0,193.0,0.0,0.0,36.0,4.0,0.0,11.11,0.0,both
+P38555,Anco Poultry Processing                                                                             ,13228.0,36.0,0.0,0.0,7.0,1.0,0.0,14.29,0.0,both
+P39,Pine Manor Inc.                                                                                     ,2477.0,530.0,0.0,0.0,113.0,15.0,0.0,13.27,0.0,both
+P39915+V39915,"LOCUST POINT FARMS, LLC                                                                             ",13936.0,212.0,0.0,0.0,72.0,38.0,0.0,52.78,0.0,both
+P40,Pilgrim's Pride Corporation                                                                         ,3.0,458.0,0.0,0.0,117.0,12.0,0.0,10.26,0.0,both
+P40183,"Sanderson Farms, Inc.                                                                               ",13729.0,526.0,0.0,0.0,108.0,8.0,0.0,7.41,0.0,both
+P40345,Misty Lea Farm Poultry Processing                                                                   ,13933.0,93.0,0.0,0.0,37.0,8.0,0.0,21.62,0.0,both
+P419,"Case Farms Processing, Inc.                                                                         ",577.0,511.0,0.0,0.0,109.0,3.0,0.0,2.75,0.0,both
+P425+V425,"Northern Pride, Inc.                                                                                ",2964.0,148.0,0.0,1.0,15.0,0.0,0.0,0.0,0.0,both
+P445,"Wayne Farms, LLC                                                                                    ",562.0,500.0,0.0,2.0,86.0,4.0,0.0,4.65,0.0,both
+P44826,Case Farms Processing                                                                               ,123397.0,661.0,0.0,1.0,99.0,2.0,0.0,2.02,0.0,both
+P44974+V44974,Goffle Road Poultry Farm                                                                            ,123881.0,126.0,0.0,0.0,30.0,5.0,0.0,16.67,0.0,both
+P44992,Windy Meadows Family Farm                                                                           ,123917.0,183.0,0.0,1.0,78.0,18.0,0.0,23.08,0.0,both
+P45131,"Farbest Foods, Inc.                                                                                 ",124228.0,273.0,0.0,0.0,23.0,0.0,0.0,0.0,0.0,both
+P45342+V45342,"Munsell's Poultry Processing, LLC                                                                   ",126506.0,119.0,0.0,0.0,29.0,5.0,0.0,17.24,0.0,both
+P45483,"Peco Foods, Inc.                                                                                    ",127044.0,468.0,0.0,0.0,110.0,2.0,0.0,1.82,0.0,both
+P45819,King and Sons Poultry Service Inc                                                                   ,6162377.0,166.0,0.0,0.0,39.0,4.0,0.0,10.26,0.0,both
+P45910,"Sanderson Farms, Inc.                                                                               ",6162776.0,513.0,0.0,5.0,114.0,8.0,0.0,7.02,0.0,both
+P460+V460,Jaindl Turkey Sales Inc                                                                             ,6403.0,56.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,both
+P4602A,"NEW MARKET POULTRY, LLC                                                                             ",2314.0,250.0,0.0,8.0,41.0,4.0,0.0,9.76,0.0,both
+P46091,"Ozark Mountain Poultry, Inc.                                                                        ",126027.0,512.0,0.0,0.0,109.0,3.0,0.0,2.75,0.0,both
+P46166+V46166,Zem Zem Halal Poultry Processing LLC                                                                ,6163495.0,21.0,0.0,1.0,3.0,1.0,0.0,33.33,0.0,both
+P46213,Burgundy Pasture Poultry LLC                                                                        ,6163592.0,233.0,0.0,0.0,48.0,2.0,0.0,4.17,0.0,both
+P46248A,Wabash Poultry Processing                                                                           ,6164268.0,108.0,0.0,0.0,21.0,20.0,0.0,95.24,0.0,both
+P46374,Sanderson Farms Processing Inc. Tyler Processing Division                                           ,6164030.0,919.0,1.0,0.0,105.0,4.0,0.0,3.81,0.0,both
+P468,"Peco Foods, Inc.                                                                                    ",3852.0,490.0,1.0,0.0,109.0,2.0,0.0,1.83,0.0,both
+P46826,SHENANDOAH VALLEY ORGANIC                                                                           ,126518.0,539.0,0.0,0.0,81.0,6.0,0.0,7.41,0.0,both
+P46897,"IHSAN FARMS, IIC                                                                                    ",6162343.0,228.0,0.0,0.0,49.0,31.0,0.0,63.27,0.0,both
+P47016,"The Best Dressed Chicken, Inc.                                                                      ",6164918.0,530.0,0.0,0.0,79.0,7.0,0.0,8.86,0.0,both
+P47254,Shining Comb Poultry                                                                                ,6165288.0,97.0,0.0,0.0,30.0,5.0,0.0,16.67,0.0,both
+P47394,Poultry Processing of Atlanta                                                                       ,6165520.0,73.0,0.0,0.0,12.0,1.0,0.0,8.33,0.0,both
+P476,Pilgrim's Pride Corporation                                                                         ,29.0,519.0,0.0,0.0,125.0,8.0,0.0,6.4,0.0,both
+P47824,Regenerative Agriculture Alliance                                                                   ,6166271.0,87.0,0.0,0.0,9.0,7.0,0.0,77.78,0.0,both
+P481,"Tyson Foods, Inc.                                                                                   ",3853.0,257.0,0.0,0.0,65.0,7.0,0.0,10.77,0.0,both
+P48304,Lincoln Premium Poultry                                                                             ,6163885.0,502.0,0.0,0.0,123.0,11.0,0.0,8.94,0.0,both
+P48308,"J-Bar Poultry Processing, LLC                                                                       ",6163898.0,97.0,0.0,0.0,5.0,1.0,0.0,20.0,0.0,both
+P48466,"Al-Kawthar Poultry, LLC                                                                             ",6164072.0,210.0,0.0,0.0,38.0,22.0,0.0,57.89,0.0,both
+P509,Koch Foods LLC                                                                                      ,4544.0,515.0,0.0,1.0,73.0,3.0,0.0,4.11,0.0,both
+P510,House Of Raeford Farms                                                                              ,578.0,605.0,0.0,1.0,109.0,2.0,0.0,1.83,0.0,both
+P511,"Butterball, LLC                                                                                     ",3854.0,450.0,0.0,8.0,22.0,0.0,0.0,0.0,0.0,both
+P51179+V51179,"Sanderson Farms, Inc.                                                                               ",127006.0,486.0,0.0,0.0,106.0,2.0,0.0,1.89,0.0,both
+P51228,Adams Turkey Farm                                                                                   ,6162340.0,75.0,0.0,0.0,2.0,2.0,0.0,100.0,0.0,both
+P517,Mar-Jac Poultry-MS                                                                                  ,4489.0,519.0,0.0,4.0,106.0,5.0,0.0,4.72,0.0,both
+P519,Amick Farms LLC                                                                                     ,4505.0,537.0,0.0,1.0,111.0,3.0,0.0,2.7,0.0,both
+P522,"Sanderson Farms, Inc. (Processing Div)                                                              ",4490.0,492.0,0.0,0.0,107.0,4.0,0.0,3.74,0.0,both
+P529+V529,Pilgrim's Pride Corporation                                                                         ,6972.0,630.0,0.0,0.0,109.0,2.0,0.0,1.83,0.0,both
+P548,"JCG  Foods of Alabama, LLC                                                                          ",4506.0,563.0,0.0,1.0,109.0,9.0,0.0,8.26,0.0,both
+P559,"Tyson Foods, Inc.                                                                                   ",4491.0,398.0,0.0,0.0,108.0,4.0,0.0,3.7,0.0,both
+P5787,Pilgrim's Pride Corporation                                                                         ,3870.0,444.0,0.0,0.0,75.0,3.0,0.0,4.0,0.0,both
+P584,Pilgrim's Pride Corporation                                                                         ,4148.0,506.0,0.0,0.0,56.0,3.0,0.0,5.36,0.0,both
+P6058,Perdue Foods LLC                                                                                    ,6025.0,269.0,0.0,0.0,75.0,9.0,0.0,12.0,0.0,both
+P6137A,"Foster Poultry Farms, LLC                                                                           ",5309.0,607.0,0.0,0.0,107.0,19.0,0.0,17.76,0.0,both
+P6164A,"Foster Poultry Farms, LLC                                                                           ",6036.0,516.0,0.0,2.0,124.0,15.0,0.0,12.1,0.0,both
+P622,"Tyson Foods, Inc.                                                                                   ",579.0,1234.0,0.0,0.0,104.0,6.0,0.0,5.77,0.0,both
+P646,"JCG Foods of Georgia, LLC                                                                           ",32.0,502.0,0.0,0.0,102.0,2.0,0.0,1.96,0.0,both
+P6504,"Peco Foods, Inc.                                                                                    ",4496.0,505.0,0.0,0.0,108.0,3.0,0.0,2.78,0.0,both
+P6505,"Norman W. Fries, Inc.                                                                               ",72.0,600.0,0.0,0.0,115.0,6.0,0.0,5.22,0.0,both
+P6510,"Peco Foods, Inc                                                                                     ",4512.0,497.0,0.0,0.0,110.0,4.0,0.0,3.64,0.0,both
+P6519B,"Coastal Processing, LLC                                                                             ",6162090.0,245.0,0.0,0.0,37.0,0.0,0.0,0.0,0.0,both
+P6529,"Koch Foods of  Montgomery, AL                                                                       ",4595.0,475.0,0.0,2.0,107.0,8.0,0.0,7.48,0.0,both
+P6616+V6616,"Peco Foods, Inc.                                                                                    ",4513.0,500.0,0.0,0.0,107.0,5.0,0.0,4.67,0.0,both
+P6638,Pilgrim's Pride Corporation                                                                         ,4514.0,463.0,0.0,1.0,100.0,6.0,0.0,6.0,0.0,both
+P6651,Tyson Foods Inc.                                                                                    ,4499.0,538.0,0.0,1.0,113.0,6.0,0.0,5.31,0.0,both
+P6666,"Koch Foods of Gadsden, LLC                                                                          ",4515.0,512.0,0.0,0.0,112.0,6.0,0.0,5.36,0.0,both
+P687,House of Raeford                                                                                    ,564.0,500.0,0.0,0.0,109.0,4.0,0.0,3.67,0.0,both
+P7044,"Tyson Foods, Inc.                                                                                   ",4236.0,616.0,0.0,1.0,73.0,4.0,0.0,5.48,0.0,both
+P705,Pilgrim's Pride Corporation                                                                         ,3856.0,542.0,0.0,0.0,105.0,3.0,0.0,2.86,0.0,both
+P7085+V7085,"Tyson Foods, Inc                                                                                    ",3879.0,400.0,2.0,1.0,81.0,4.0,0.0,4.94,0.0,both
+P7091,Pilgrim's Pride Corporation                                                                         ,4243.0,489.0,0.0,0.0,110.0,3.0,0.0,2.73,0.0,both
+P7101,"Tyson Foods, Inc.                                                                                   ",3881.0,402.0,0.0,1.0,106.0,0.0,0.0,0.0,0.0,both
+P7156+V7156,"Tyson Foods, Inc.                                                                                   ",3883.0,510.0,0.0,0.0,109.0,2.0,0.0,1.83,0.0,both
+P7174,"Butterball, LLC                                                                                     ",3886.0,236.0,0.0,3.0,26.0,2.0,0.0,7.69,0.0,both
+P72,"Tyson Foods, Inc                                                                                    ",3846.0,423.0,0.0,0.0,104.0,2.0,0.0,1.92,0.0,both
+P7264+V7264,"Sanderson Farms, Inc.                                                                               ",3890.0,476.0,0.0,0.0,98.0,4.0,0.0,4.08,0.0,both
+P727+V727,"Simmons Prepared Foods, Inc.                                                                        ",3543.0,490.0,0.0,1.0,96.0,3.0,0.0,3.12,0.0,both
+P7342+V7342,Wayne Farms LLC                                                                                     ,4516.0,511.0,0.0,1.0,103.0,5.0,0.0,4.85,0.0,both
+P7374,"To-Ricos, Ltd.                                                                                      ",133.0,239.0,0.0,0.0,48.0,3.0,0.0,6.25,0.0,both
+P7485+V7485,Wayne Farms LLC                                                                                     ,4518.0,523.0,0.0,2.0,110.0,3.0,0.0,2.73,0.0,both
+P7487,"Koch Foods, LLC                                                                                     ",4644.0,515.0,0.0,10.0,56.0,3.0,0.0,5.36,0.0,both
+P758,"Tyson Foods, Inc                                                                                    ",4507.0,506.0,0.0,2.0,108.0,6.0,0.0,5.56,0.0,both
+P7632,"Foster Poultry Farms, LLC                                                                           ",5333.0,553.0,0.0,0.0,107.0,11.0,0.0,10.28,0.0,both
+P764,"Perdue Foods, LLC                                                                                   ",2250.0,504.0,0.0,0.0,81.0,4.0,0.0,4.94,0.0,both
+P7669,"Turkey Valley Farms, Inc.                                                                           ",3431.0,218.0,0.0,2.0,40.0,1.0,0.0,2.5,0.0,both
+P768+V768,"Tyson Foods, Inc.                                                                                   ",3841.0,427.0,0.0,7.0,95.0,3.0,0.0,3.16,0.0,both
+P7769,"Farbest Foods, Inc.                                                                                 ",2643.0,531.0,0.0,1.0,23.0,0.0,0.0,0.0,0.0,both
+P7903,"Perdue Foods, LLC                                                                                   ",2349.0,529.0,0.0,0.0,114.0,4.0,0.0,3.51,0.0,both
+P7927,"AMICK FARMS, LLC                                                                                    ",2351.0,605.0,0.0,1.0,111.0,2.0,0.0,1.8,0.0,both
+P794,"B&B Poultry Co., Inc.                                                                               ",847.0,237.0,0.0,2.0,80.0,16.0,0.0,20.0,0.0,both
+P806,"Tyson Foods, Inc.                                                                                   ",2251.0,527.0,0.0,1.0,113.0,8.0,0.0,7.08,0.0,both
+P8107+V8107,Squab Producers Of California                                                                       ,5343.0,238.0,0.0,0.0,46.0,3.0,0.0,6.52,0.0,both
+P843,Pilgrim's Pride Corporation                                                                         ,566.0,726.0,0.0,0.0,108.0,3.0,0.0,2.78,0.0,both
+P855,Pilgrim's Pride Corporation                                                                         ,38.0,524.0,0.0,0.0,55.0,4.0,0.0,7.27,0.0,both
+P890,"Peco Foods, Inc.                                                                                    ",4562.0,491.0,0.0,0.0,78.0,7.0,0.0,8.97,0.0,both
+P910,"Harrison Poultry, Inc.                                                                              ",39.0,505.0,0.0,0.0,106.0,2.0,0.0,1.89,0.0,both
+P912,Wayne Farms LLC                                                                                     ,4493.0,507.0,0.0,0.0,102.0,4.0,0.0,3.92,0.0,both
+P9197,"Perdue Foods, LLC.                                                                                  ",696.0,518.0,0.0,0.0,123.0,8.0,0.0,6.5,0.0,both
+P9332,Diestel Turkey Ranch                                                                                ,5400.0,144.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,both
+P935,Allen Harim LLC                                                                                     ,2260.0,526.0,0.0,1.0,107.0,4.0,0.0,3.74,0.0,both
+P9378+V9378,Baffoni's Poultry Farm Inc.                                                                         ,124559.0,231.0,0.0,0.0,26.0,7.0,0.0,26.92,0.0,both
+P961,Cargill Meat Solutions                                                                              ,3545.0,225.0,0.0,0.0,28.0,0.0,0.0,0.0,0.0,both
